@@ -20,7 +20,7 @@ Sequence principle is described in this MRM publication :  [![DOI](https://zenod
 
 ## Folder structure
 
-* **SEQUENCE** : Binary the sequence on Bruker scanner (PV6.0.1).
+* **SEQUENCE** : Binary the sequence on Bruker scanner (PV6.0.1) + example of a protocol
 * **RECO** : Matlab script for reconstruction
   * **functions** supporting functions
 
@@ -36,7 +36,7 @@ Sequence has been developped for Paravision **PV6.0.1**. Minor modification are 
 * To install : `File -> Import -> Binary Method ` and select the sequence in the share folder.
 
 
-Sequence is now install and available under the **Palette** tab/Explorer tab/Scan Programs & Protocols :
+Sequence is now installed and available under the **Palette** tab/Explorer tab/Scan Programs & Protocols :
 
 ```
 Object : AnyObject
