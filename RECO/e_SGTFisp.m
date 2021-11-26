@@ -27,16 +27,16 @@
 % TO DO :
 %   
 
-function s_out=e_SGTFisp(s_in)
+function s_out=e_SGTFisp(BRUKER_PATH)
 
 if nargin < 1
-    s_in.BRUKER_PATH = uigetdir('*.*','Open rawdata bruker directory');
+    BRUKER_PATH = uigetdir('*.*','Open rawdata bruker directory');
 end
 
 
 
 %read params in bruker directory selected
-bruk = read_bru_experiment(s_in.BRUKER_PATH);
+bruk = read_bru_experiment(BRUKER_PATH);
 
 %%
 sx=bruk.method.PVM_EncMatrix(1);
