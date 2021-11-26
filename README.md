@@ -6,7 +6,7 @@ This repository regroups the compiled sequence and matlab reconstruction of the 
 
 Sequence principle is described in this MRM publication :  [![DOI](https://zenodo.org/badge/DOI/10.1002/jmri.24688.svg)](https://doi.org/10.1002/jmri.24688)
 
-**Source code is available as a private [submodule](https://github.com/aTrotier/SEQ_BRUKER_A_MP2RAGE_CS_PUBLIC)** if you want the source code, send a request to : <aurelien.trotier@rmsb.u-bordeaux.fr> or <emeline.ribot@rmsb.u-bordeaux.fr> 
+**Source code is available as a private [submodule](https://github.com/CRMSB/SEQ_BRUKER_e_SGTFisp/)** if you want the source code, send a request to : <aurelien.trotier@rmsb.u-bordeaux.fr> or <emeline.ribot@rmsb.u-bordeaux.fr> 
 
 
 
